@@ -1,2 +1,2 @@
 # kiii-jenkins
-test
+Repo for the Jenkins exercises, for the DevOps course at FCSE.
